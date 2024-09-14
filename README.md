@@ -2,8 +2,11 @@
 KBBI SQL Database, total data ```115.978``` kata.
 Tersedia untuk ```MySQL```, ```SQLite``` dan ```PostgreSQL```.
 
-## Buat Tabel Baru
-Sebelum mengimpor data kata, buatlah tabelnya terlebih dahulu.
+## Database
+Buat database baru dengan nama ```kbbi```, bisa di sesuaikan dengan keinginan jika mau.
+
+## Tabel
+Sebelum mengimpor data kata, buatlah tabelnya terlebih dahulu dengan nama ```dictionary```.
 
 ### SQLite
 | Nama Field | Tipe Data | Nullable | Keterangan                  |
