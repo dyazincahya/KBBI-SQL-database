@@ -1,5 +1,5 @@
 # KBBI SQL Database
-KBBI SQL Database, total data ```115.978``` kata.
+Kamus Besar Bahasa Indonesia (KBBI) SQL Database, total data ```115.978``` kata.
 Tersedia untuk ```MySQL```, ```SQLite``` dan ```PostgreSQL```.
 
 ## Database
