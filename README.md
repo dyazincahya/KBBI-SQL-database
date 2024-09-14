@@ -1,6 +1,20 @@
 # KBBI SQL Database
 Kamus Besar Bahasa Indonesia (KBBI) SQL Database, total data ```115.978``` kata.
-Tersedia untuk ```MySQL```, ```SQLite``` dan ```PostgreSQL```.
+
+## Format data
+Tersedia untuk format data:
+- [MySQL](https://github.com/dyazincahya/KBBI-SQL-database/blob/main/dictionary_MySQL.sql)
+- [SQLite](https://github.com/dyazincahya/KBBI-SQL-database/blob/main/dictionary_SQLite.sql)
+- [PostgreSQL](https://github.com/dyazincahya/KBBI-SQL-database/blob/main/dictionary_PostgreSQL.sql)
+
+Juga tersedia untuk format data lainnya seperti:
+- [CSV](https://github.com/dyazincahya/KBBI-SQL-database/blob/main/dictionary_CSV.csv)
+- [JSON](https://github.com/dyazincahya/KBBI-SQL-database/blob/main/dictionary_JSON.json)
+- [Markdown](https://github.com/dyazincahya/KBBI-SQL-database/blob/main/dictionary_MARKDOWN.md)
+- [PHP Array](https://github.com/dyazincahya/KBBI-SQL-database/blob/main/dictionary_PHP_ARRAY.php)
+- [XML](https://github.com/dyazincahya/KBBI-SQL-database/blob/main/dictionary_XML.xml)
+- [DbUnit](https://github.com/dyazincahya/KBBI-SQL-database/blob/main/dictionary__DbUnit.xml)
+- [HTML](https://github.com/dyazincahya/KBBI-SQL-database/blob/main/dictionary__HTML.html)
 
 ## Database
 Buat database baru dengan nama ```kbbi```, nama database dapat di sesuaikan dengan keinginan Anda jika mau.
