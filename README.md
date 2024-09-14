@@ -59,4 +59,4 @@ CREATE TABLE `dictionary` (
 ```
 
 ## API KBBI
-Jika data pada database kurang lengkap, Anda dapat mengkombinasikannya dengan [API KBBI](https://github.com/dyazincahya/API-KBBI-PHP-Codeigniter-4) yang sumber datanya langsung berasal dari [KBBI Daring Kemdikbud](https://kbbi.kemdikbud.go.id/)
+Jika data pada database kurang lengkap, Anda dapat mengkombinasikannya dengan [API KBBI PHP Codeigniter4](https://github.com/dyazincahya/API-KBBI-PHP-Codeigniter-4) yang sumber datanya langsung berasal dari [KBBI Daring Kemdikbud](https://kbbi.kemdikbud.go.id/)
